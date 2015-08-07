@@ -8,7 +8,7 @@ import javafx.scene.control.Label;
 import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
 
-
+//Hallo Claudio. :-)
 public class Main extends Application{
 
     private int current = 90;
